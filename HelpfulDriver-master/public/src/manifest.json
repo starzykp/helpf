@@ -1,0 +1,22 @@
+{
+  "short_name": "HD",
+  "name": "HelpfullDriver",
+  "description": "autostop",
+  "icons": [
+    {
+      "src":   "img/1.png",
+      "type":  "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src":   "img/2.png",
+      "type":  "image/png",
+      "sizes": "417x417"
+    }
+  ],
+  "scope": "/public/",
+  "start_url": "/https://helpfulldriver.web.app/",
+  "background_color": "white",
+  "display": "standalone",
+  "theme_color": "white"
+}
